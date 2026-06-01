@@ -1,26 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 14:33:49 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hydraulics</title>
-      <link>http://localhost:1313/rants/hydraulics/</link>
-      <pubDate>Fri, 15 May 2026 14:33:49 -0700</pubDate>
-      <guid>http://localhost:1313/rants/hydraulics/</guid>
-      <description>If it were up to me, everything on my bike would be adjustable with a 5mm allen wrench. I know that isn’t practical, but I would be willing to sacrifice a LOT of wait savings and sleekness to achieve that lofty goal. For now, I have settled on carrying a small tool kit with the essentials (4, 5, 6, 8mm wrenches, a small flathead, and a pair of quick link pliers).</description>
-    </item>
-    <item>
-      <title>Rants</title>
-      <link>http://localhost:1313/rants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rants/</guid>
-      <description> Hydraulics </description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rycyclable</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Rycyclable</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 30 May 2026 00:40:59 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bottom Bracket Shells</title>
+				<link>http://localhost:1313/rants/bottom_bracket_shells/</link>
+				<pubDate>Sat, 30 May 2026 00:40:59 -0700</pubDate>
+				<guid>http://localhost:1313/rants/bottom_bracket_shells/</guid>
+				<description>&lt;p&gt;Notice that the title of this section is not &amp;ldquo;bottom brackets&amp;rdquo;. Right now, bottom brackets (and the cranks they are compatible with) come in two dominate styles: Square Taper and External. There a bunch of variations and that kind of annoys me, sure. But the industry as a whole seems to keep coming back to square taper bottom brackets with 3 piece cranks (which I love) and 2 piece &amp;ldquo;hollow-tech&amp;rdquo; cranks with external bottom brackets (which I don&amp;rsquo;t love but I also don&amp;rsquo;t outright hate).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hydraulics</title>
+				<link>http://localhost:1313/rants/hydraulics/</link>
+				<pubDate>Fri, 15 May 2026 14:33:49 -0700</pubDate>
+				<guid>http://localhost:1313/rants/hydraulics/</guid>
+				<description>&lt;p&gt;If it were up to me, everything on my bike would be adjustable with a 5mm allen wrench. I know that isn’t practical, but I would be willing to sacrifice a LOT of wait savings and sleekness to achieve that lofty goal. For now, I have settled on carrying a small tool kit with the essentials (4, 5, 6, 8mm wrenches, a small flathead, and a pair of quick link pliers). What I will never do as long as I live is carry any tools for hydraulics on my bike, nor will I have hydraulic brakes. The entire idea is preposterous to me.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rants</title>
+				<link>http://localhost:1313/rants/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/rants/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/rants/hydraulics/&#34;&gt;Hydraulics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>
