@@ -27,6 +27,7 @@ ul {
     list-style: "➢ "; /*this is the custom bullet point for lists. change or delete it if you prefer!*/
 }
 .sidebar {
+    /*background-image: url("/light_green_texture.jpg")*/
     background-image: url(https://i.postimg.cc/BQJZ6CjP/Ricppr.gif);
 }
 
