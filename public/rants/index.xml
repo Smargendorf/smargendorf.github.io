@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 30 May 2026 00:40:59 -0700</lastBuildDate>
+			<lastBuildDate>Wed, 03 Jun 2026 17:29:21 -0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/rants/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dynamo_lights</title>
+				<link>http://localhost:1313/rants/dynamo_lights/</link>
+				<pubDate>Wed, 03 Jun 2026 17:29:21 -0700</pubDate>
+				<guid>http://localhost:1313/rants/dynamo_lights/</guid>
+				<description>&lt;figure class=&#34;figure_img&#34;&gt;&lt;img src=&#34;http://localhost:1313/rants/dynamo_lights/night_time_ride.jpg&#34; width=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I feel like I&amp;rsquo;m going crazy when i realize how underutilized dynamo (generators) on bikes are. Like, outside of (exceedingly rare) internal routing options, we don&amp;rsquo;t even have a good way to mount the wires. What, you want me to wrap the wire around the frame tubes like a fucking may pole? Really? There&amp;rsquo;s gotta be a better way, and the moment someone figures it out I&amp;rsquo;m buying it. Well, Rene Herse has a &lt;a href=&#34;https://www.renehersecycles.com/shop/equipment/lights/rene-herse-light-switch/&#34;&gt;thing&lt;/a&gt;, but its less of a solution and more of an entirely custom bike. So no, not that.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Bottom Bracket Shells</title>
 				<link>http://localhost:1313/rants/bottom_bracket_shells/</link>
