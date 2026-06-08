@@ -8,16 +8,13 @@
 
 <body>
   {{ partial "header.html" . }}
-
   {{ partial "sidebar.html" . }}
   <div class="layout">
-
-
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-
+    <main>
+      <div class="main_content">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </main>
   </div>
-
 </body>
 </html>
