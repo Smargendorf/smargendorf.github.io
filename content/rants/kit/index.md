@@ -4,19 +4,19 @@ date = 2026-06-08T13:07:26-07:00
 draft = false
 +++
 
-There is a youtuber who goes by "[Shifter](https://www.youtube.com/@Shifter_Cycling)" that I follow loosely. He has a lot of opinions about cycling, and we share a lot of those opinions. He lives in Calgery which is flat and is sunny more than half the days of the year. His needs are different than mine, and his privilege is immense.
+There is a youtuber who goes by [Shifter](https://www.youtube.com/@Shifter_Cycling) that I follow loosely. He has a lot of opinions about cycling, and we share a lot of those opinions. He lives in Calgery which is flat and is sunny more than half the days of the year. His needs are different than mine, and his privilege is immense. He shook my hand one time though so we are chill. We are practiclaly best friends.
 
 Anyway, one of the things he likes to talk about is biking in the clothes you would normally wear. This is, I think, the most important and radical point on his channel. And he talks about it a lot.
 
 Biking in your regular clothes for non-competitive biking excursions is honestly a rarity in North America. When I get to the office in the morning, I often get 2 questions:
 
-1. You biked to work? In this weather??
+- You biked to work? In this weather??
 
-2. Did you change in the locker room? Wait...you biked in that??
+- Did you change in the locker room? Wait...you biked in that??
 
 Yes. I wore the clothes I was already gonna wear at work. Wild.
 
-Now, speaking of checking your privilege, I should mention to anyone who doesn't live on the west coast that "work attire" means something Very Different over here than it does in a lot of the world. Our most formal "work attire" in Seattle would be considered "office casual" in a lot of other cities. If you see someone even wearing a button down (like, not a flannel. an actual button down) you might think "damn, that person is trying today". Seeing a blazer or even, allah forgive me, a suit jacket and slacks is enough to make you do a double take. Are they going to a wedding after this? How are you going to hike after work in that?
+Now, speaking of checking your privilege, I should mention to anyone who doesn't live on the west coast that "work attire" means something Very Different over here than it does in a lot of places in the world. Our most formal "work attire" in Seattle would be considered "office casual" in a lot of other cities. If you see someone even wearing a button down (like, not a flannel. an actual button down) you might think "damn, that person is trying today". Seeing a blazer or even, allah forgive me, a suit jacket and slacks is enough to make you do a double take. Are they going to a wedding after this? How are you going to hike after work in that?
 
 So when I say "I bike to work and I don't change my outfit when I get there" what I really mean is "no one is going to think its weird that i am at the office in jeans and a t-shirt, they are just happy that I showered."
 
