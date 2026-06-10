@@ -8,5 +8,6 @@ title: "Rants"
 - [Electronic Shifting](/rants/eshifting/)
 - [Bike Computers](/rants/bike_computers/)
 - [BCD](/rants/bcd/)
-- [Kickstand](/rants/kickstands/)
+- [Kickstands](/rants/kickstands/)
 - [Hydraulics](/rants/hydraulics/)
+- [Threadless Headsets](/rants/threadless_headsets)
