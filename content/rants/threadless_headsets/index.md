@@ -1,10 +1,18 @@
 +++
 title = 'Threadless_headsets'
 date = 2026-06-10T01:11:27-07:00
-draft = false
+draft = true
 +++
 
-While I hate new standards, thread-less does have it's perks. I like being able to take out my fork easily if I want to. I like how the whole thing is held together with bolts (As i mentioned before, I wish that were the case for every part of the bike). Threadless setups are marginally Iighter (i guess) than threaded, and they don't seize as easily. They main problem I have is that quill stems are much easier to get to a reasonable stack height since the stem height is dependent on the stem itself, not the steerer tub length. This is only a problem when people cut their stems too short but alas, fucking everyone does, making the used bikes I come across a boon for my chiropractor. But again, this is technically user error.
+There are two dominate styles of "headsets" on a bike. Headsets are the cups, cones, and bearings that, together, allow your Fork and handlebars to turn independantly of your frame. There are a few different ways these headsets can work internally, but a larger discussion on ball bearings (and the like) will be had another time. Instead, I want to talk about the two styles of headset *shells*.
+
+The older but still common style is called "threaded". These headsets are not threaded into the frame, but actually to the steerer tube of the fork (the bit that goes up and into the frame).
+
+the newer style is called "threadless." As you might have guessed, these headsets have no threads on them to be screwed into the fork. Instead, a star nut is wedged into the top of the fork, and the whole thing is held together by the clamp on the stem and the bolt threaded into the star nut at the top. So, "threadless" is a bit of a lie. They have not shirked the need for threads, they just moved where the threads are.
+
+While I hate new standards, thread-less does have it's perks.
+
+I like being able to take out my fork easily if I want to. I like how the whole thing is held together with bolts (As I've mentioned before, I wish that were the case for every part of the bike). Threadless setups are marginally Iighter (I guess) than threaded, and they don't seize as easily. They main problem I have is that quill stems are much easier to get to a reasonable stack height since the stem height is dependent on the stem itself, not the steerer tub length. This is only a problem when people cut their stems too short but alas, fucking everyone does, making the used bikes I come across a boon for my chiropractor. But again, this is technically user error.
 
 No the real problem with threadless was moving from 1" to 1-1/8" headtubes. This was completely unnecessary. 1" threadless systems existed but are now almost impossible to find. Instead, the industry decided that an extra 1/8" of an inch was going to solve...something? Stiffness? I don't know. Who cares? Plenty of quill stem bikes out there still ride fine and are plenty stiff. But I guess people in extreme sports needed that extra 1/8", so the rest of us needed it too.
 
