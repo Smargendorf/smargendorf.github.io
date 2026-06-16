@@ -12,3 +12,4 @@ title: "Rants"
 - [Hydraulics](/rants/hydraulics/)
 - [Threadless Headsets](/rants/threadless_headsets)
 - [Drop Bars](/rants/dropbars/)
+- [Rene Herse](/rants/reneherse/)

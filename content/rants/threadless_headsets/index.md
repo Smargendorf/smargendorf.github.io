@@ -1,5 +1,5 @@
 +++
-title = 'Threadless_headsets'
+title = 'Threadless Headsets'
 date = 2026-06-10T01:11:27-07:00
 draft = false
 +++

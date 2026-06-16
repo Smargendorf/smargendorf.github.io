@@ -1,5 +1,5 @@
 +++
-title = 'Dropbars'
+title = 'Drop Bars'
 date = 2026-06-15T23:01:56-07:00
 draft = false
 +++
