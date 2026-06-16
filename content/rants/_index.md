@@ -11,3 +11,4 @@ title: "Rants"
 - [Kickstands](/rants/kickstands/)
 - [Hydraulics](/rants/hydraulics/)
 - [Threadless Headsets](/rants/threadless_headsets)
+- [Drop Bars](/rants/dropbars/)
