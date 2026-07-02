@@ -12,7 +12,7 @@ I’m sorry but you are not going to convince me that these are comfortable. You
 
 “But drop bars are more aero” 99.9% of people will never even get close to a podium at a bike race. This is completely irrelevant for normal discussions about bicycles. You need to be above 20km/h for extended amounts of time "aero" to matter at all.
 
-From a home mechanics perspective, drop bars are way more work to maintain than drop bars. Want to make small adjustments on a flat bar? Loosen some bolts and slide stuff around. Easy. Want to change basically anything on a drop bar? Hope you have your calendar cleared cause you are going to be re-wrapping those bars at least once!
+From a home mechanics perspective, drop bars are way more work to maintain than flat bars. Want to make small adjustments on a flat bar? Loosen some bolts and slide stuff around. Easy. Want to change basically anything on a drop bar? Hope you have your calendar cleared cause you are going to be re-wrapping those bars at least once!
 
 Not to mention the shear versatility that flat bars provide over drops. Drop bars are so disgustingly attachment-phobic that an entire industry of aftermarket parts exists simply to allow you to attach basic shit like bells to drop bars. And all of it requires you to take your hands off the bar to use because the entire bar is wrapped except for a little peak (a tease?) right where the stem connects. Guess what I do to ring my bell on my flat bars? I hit it with my thumb. I don't have to move my hand. I don't even have to think about it to be honest. Plus I have plenty of room to attach a light, a phone holder, a cup holder, and whatever else I want really. Most drop bar riders can't even dream of such cockpit luxury.
 
