@@ -39,12 +39,14 @@ However, I was worried that the shifter placement would be too far from the brak
 
 Another unexpected but interesting advantage they have over H-Bars is that Crazy Bars don't need crazy (haha) attachments to use them. By that, I mean that since they don't have that second bar wrapping around the front of the bar, they can take advantage of normal bar bags, light placements, etc. Being less efficient with their layout does actually give them more real estate for adding random stuff to them. As you can see in the photo I have at the top, attaching stuff to H-Bars isn't hard, but you aren't going to be able to use that dope randonneuring bag you have. Not easily anyway. So, in a way, Crazy Bars end up feeling a lot more like normal bars than H-Bars do, which need a bit of the box thinking to get the most out of.
 
-< Bar-In Photo >
+{{< figure src="/bar_ins.jpg" width="400" class="figure_img">}}
 
-I've seen a lot of people say that Crazy Bars are cool but you could just get normal bars and put "bar-in" attachments (like those pictures above) on to get the same result with more modularity. I'm all for modularity, but I have some concerns. 
-A) No clamp is going to be as strong as a weld. If one of these slips, I'm going to have to unwrap the whole thing just to re-tighten the bolt and that sucks.
-B) Wrapping these things in the first place doesn't seem...easy. At the very least, I cant see a way to wrap these that would allow for a comfy place to rest my hands in the junction where the horns meet the bar, and I like that position on the Crazy Bars.
-C) Depending on the "bar-ins" you get, this can cost quite a bit more than the crazy bars. The Velo Orange Seine Bars are essentially the Crazy Bars without the horns. If you pick up the Seine plus the Soma Bar-ins (the ones pictured above), that will cost you $163 vs the $120 that the Crazy Bars cost.
+I've seen a lot of people say that Crazy Bars are cool but you could just get normal bars and put "bar-in" attachments (like those pictures above) on to get the same result with more modularity. I'm all for modularity, but I have some concerns.
+
+1. No clamp is going to be as strong as a weld. If one of these slips, I'm going to have to unwrap the whole thing just to re-tighten the bolt and that sucks.
+2. Wrapping these things in the first place doesn't seem...easy. At the very least, I cant see a way to wrap these that would allow for a comfy place to rest my hands in the junction where the horns meet the bar, and I like that position on the Crazy Bars.
+3. Depending on the "bar-ins" you get, this can cost quite a bit more than the crazy bars. The Velo Orange Seine Bars are essentially the Crazy Bars without the horns. If you pick up the Seine plus the Soma Bar-ins (the ones pictured above), that will cost you $163 vs the $120 that the Crazy Bars cost.
+
 However, I will say that the bar ins would also allow you to angle the horns about 5 degrees inward, which I think would make a small improvement to the Crazy Bars. The Koga Denham Bars have an inward sweep, but they are really hard to find in the US right now so I never got to try those out (and they don't come in silver!!)
 
 As I said, I more love them than like them. Infatuated, really. As in, I'm completely willing to overlook their faults because they just look and feel so great. They are not optimal. They are CERTAINLY not for everyone. I am running into shit all the time with the horns. No one else is willing to ride my LHT (which i snagged as a "backup" bike. yes, im delusional) because the shifting is so unusual. Hell, I have a hard time getting my bike to fit on a crowded bike rack sometimes because of them. Oh and they look super weird.
