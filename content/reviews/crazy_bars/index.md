@@ -9,7 +9,7 @@ My minimum standards for handlebars are as follows:
 2. Comfy/ergonomic, obviously
 3. Made with normal part standards in mind
 
-Luckily for me, that's like 99% of handlebars out there, which bodes VERY WELL for the longevity of these parts. So well that longevity is barely going to be part of this review, even though that topic is what almost everything on this website is centered on. With that in mind, lets talk bars.
+Luckily for me, that's like 99% of handlebars out there, which bodes VERY WELL for the longevity of these parts. So well that longevity is barely going to be part of this review, even though that topic is what almost [everything on this website](/rants/) is centered on. With that in mind, lets talk bars.
 
 ---
 
@@ -33,7 +33,7 @@ But do I like them? Well, I wouldn't say that, but I do love them.
 
 They offer some great hand positions. The 35 degree sweep feels just right. The antlers act as hoods on drop bars just are way easier to grip than brake hoods (at least for me, I have huge hands). In fact, the tubing on the antlers is to the same spec as drop bars, so you can use any drop bar compatible parts, while the rest of the bar is made to normal flat bar specifications. Essentially, everything fits where you think it should, which is great and makes a bunch of weird things possible. My favorite is the shifter placement as pictured above, which is absolutely ideal (subjectively). Having the brakes in the widest position forces you to get upright and in control when you are slowing down, which is the position you should be in. Something that bugs me on my H-Bars is that I like to climb with my hands on one of the forward hand positions, but climbing often needs closer attention to gear choice than other parts of riding, and its frustrating to have to let go for a sec to change my gears in the middle of a steep climb. With bar end shifters at the ends of the antlers, I get the best of both worlds. A nice forward "power" position, but with easy access to fine tuning my gearing at the same time.
 
-This setup is actually the opposite of typical drop-bars, if you think about it. Brifters (or paddle shifters, or whatever you call the indexed drop-bar shifter-brake-level combo things) brake best from the drops, but shift best from the hoods. This is the exact opposite of what you want. Just another reason I don't love drop-bars.
+This setup is actually the opposite of typical drop-bars, if you think about it. Brifters (or paddle shifters, or whatever you call the indexed drop-bar shifter-brake-level combo things) brake best from the drops, but shift best from the hoods. This is the exact opposite of what you want. Just another reason [I don't love drop-bars](/rants/dropbars/).
 
 However, I was worried that the shifter placement would be too far from the brakes, but actually I find it to be not a big deal at all. Unlike down-tube shifters, or even regular bar-end shifters on drop bars, you don't have to lean down super far just to change gears, making it much easier to feel confident when you have to shift gears quickly. Plus, the gears are easy to look at without taking your eyes off the road, since they are basically in the same part of your field of view anyway.
 

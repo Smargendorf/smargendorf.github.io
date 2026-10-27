@@ -14,7 +14,16 @@
 
   <main>
     <div class="main_content">
-      {{ .Content }}
+      <h2> {{ .Title }} </h2>
+
+      <ul>
+        {{ range (where site.RegularPages "Section" .Section).ByDate.Reverse }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          </li>
+        {{ end }}
+      </ul>
     </div>
   </main>
 
