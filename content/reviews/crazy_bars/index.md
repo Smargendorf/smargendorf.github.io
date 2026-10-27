@@ -15,7 +15,7 @@ Luckily for me, that's like 99% of handlebars out there, which bodes VERY WELL f
 
 For the last 3 years, I have been rocking H-Bars. They are weird looking, take a bit to get used to, bulky, and in my opinion they are the best handlebars ever designed. H-Bars were released by Jones Bicycles in 2002, and have gained quite the cult following of which I am a part of.
 
-< HBAR PHOTO >
+{{< figure src="/hbars.jpg" width="400" class="figure_img">}}
 
 Like all alt-bars, the genius of the H-Bar comes from it's many hand positions. You can put your hands in three different positions on the loops as well as out on the regular grips where the controls are. Having multiple hand positions is ESSENTIAL for longer rides, and is one of the main reasons people still use drop bars. No matter how comfy your grips/gloves are, human hands did not evolve to me stuck in one position for so long!
 
@@ -25,7 +25,7 @@ That sounds versatile, sure, but I said "efficient". Why? Well, these bars can d
 
 A couple of months ago, I found a used Long Haul Trucker in my size that I snatched up without hesitation. When I was planning what I would do to build up the frame, my first thought was, of course, lets through another H-Bar on there. But I wanted this thing to be built up with silver components, and I was having a hard time finding a good deal on silver H-Bars anywhere. So I decided to the Velo Orange Crazy Bars instead, and let me tell you, these are the opposite of "unassuming":
 
-< CRAZY BAR PHOTO >
+{{< figure src="/crazy_bars2.jpg" width="400" class="figure_img">}}
 
 My H-Bars only get comments from the "if you know, you know" crowd. These guys on the other hand have people thinking my LHT has antlers growing out of it (which is what I now call them). Remember how I said that H-Bars were relatively compact?  When my bike is hanging from the hooks on the train, people are giving me nasty looks as they duck under my shifters to avoid getting poked in the eye. I even have a hard time getting these handlebars though most door frames. They are 780mm wide. RIDICULOUS.
 
