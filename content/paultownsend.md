@@ -37,6 +37,7 @@ One of pauls brothers died young in some sort of accident before he could ever h
 The mansion next door to them with the helicopters and the rodesian ridgebacks (i wonder what dark history is behind that name...) was apperently an arab prince.
 Anyway they had another messy divorce after that and apperently hes a terrible person
 > What the fuck was the connection to the Jewish Mafia??
+>> Mom has no recolection of this, might have been italian mafia, which would explain sinatra.
 > What the fuck was the connection to the Roosevelts??
 > Why was frank sinatra at a wedding my mom was at??
 > Why did Ruth run away??
@@ -51,3 +52,5 @@ At first things were good with Ray, until he became an alcoholic. he had a bar "
 Tobin was "kinda gone"
 Ruths mom got Ruth the house in Penn: Elsie. She was weathly.
 Paul and Terry bought LIBN in 1960. Sold in 1998. Was bought by private equity in 2020. I have a blood fued with them and hope they die.
+Elsie's first husband, ruths dad, died of the 1918 flu (spanish flu?) in 1920 (?). Ruth was born in 1918. Her second husband was a national geographic photographer (can i find those photos?).
+Was I important to Paul? Did he feel like he finally got his family back?
