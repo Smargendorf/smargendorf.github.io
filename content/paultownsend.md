@@ -39,6 +39,10 @@ Anyway they had another messy divorce after that and apperently hes a terrible p
 > What the fuck was the connection to the Jewish Mafia??
 >> Mom has no recolection of this, might have been italian mafia, which would explain sinatra.
 > What the fuck was the connection to the Roosevelts??
+>> Townsends and roosevelts were historic neighbors
+>> Townsends held a family reunion at the roosevelt family estate in oyster bay, some townsends are buried at teddys property (pre-paul townsends). The man buried there followed teddy around on his travels around the world. Collected rocks wherever they went and built a monument with the rocks in Oyster bay. The reunion was to refurbish the monument
+John and Henry were the original townsends to arrive in Oyster Bay in 1661.
+Paul grew up in a house in centerport that is now a church and billy owns alot of that block ???
 > Why was frank sinatra at a wedding my mom was at??
 > Why did Ruth run away??
 > How did Paul and Ruth grow up? Why was Paul already rich?
